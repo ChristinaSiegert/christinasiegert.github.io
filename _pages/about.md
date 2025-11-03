@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Since October 2025, I am postdoctoral researcher at the [Chair of Sociology, especially family and work](https://www.uni-bamberg.de/en/sociology/chairs-and-professorships/sfa/team/translate-to-english-dr-christina-siegert/), at the University of Bamberg. I am also an external research fellow at the Department of Sociology, University of Vienna. I completed my PhD "Poverty risk within couples across the family life course" at the University of Vienna in 2025. My research has been recognized with the Theodor Körner Prize (2024), the Kurt Rothschild Prize (2025) and the best dissertation award by the faculty of social sciences, University of Vienna (2025).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Previously, I held research positions at the University of Vienna, the Vienna University of Economics and Business, and Statistics Austria. I also worked as a social policy expert at Diakonie Austria. I serve on the board of the “Social Inequality” section of the Austrian Sociological Association (ÖGS), co-organize the Conference for Young Poverty Research as part of the Austrian Poverty Conference, and I am a member of the “Income and Wealth” working group within the Austrian Socio-Economic Panel (ASEP).
+
+My research 
+
+
 
 A data-driven personal website
 ======
