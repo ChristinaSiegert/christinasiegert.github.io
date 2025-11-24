@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Foto01.jpg"
+  avatar           : "Foto011.jpg"
   name             : "Christina Siegert"
   pronouns         : ""  
   bio              : ""
-  location         : "Bamberg, DE & Vienna, AT"
-  employer         : "University of Bamberg"
+  location         : ""
+  employer         : ""
   uri              : # URL
   email            : "christina.siegert@uni-bamberg.de" 
 
