@@ -13,11 +13,11 @@ main:
     url: https://scholar.google.com/citations?user=6I2Wwc8AAAAJ&hl=en
 
   - title: "Teaching"
-    url: /teaching/ 
+    #url: /teaching/ 
 
   - title: "Media"
     url: /media/ 
             
   - title: "CV"
-    url: /cv/
-    #url: /files/CV_Siegert.pdf
+    #url: /cv/
+    url: /files/CV_Siegert.pdf
