@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Christina Siegert"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Christina Siegert"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Foto011.jpg"
+  avatar           : "Foto011.JPG"
   name             : "Christina Siegert"
-  pronouns         : ""  
-  bio              : ""
-  location         : ""
-  employer         : ""
+  #pronouns         : ""  
+  #bio              : ""
+  #location         : ""
+  #employer         : ""
   uri              : # URL
   email            : "christina.siegert@uni-bamberg.de" 
 
