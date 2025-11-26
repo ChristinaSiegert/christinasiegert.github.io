@@ -12,11 +12,11 @@ main:
     #url: /publications/ 
     url: https://scholar.google.com/citations?user=6I2Wwc8AAAAJ&hl=en
 
-  - title: "Teaching"
+  #- title: "Teaching"
     #url: /teaching/ 
 
-  - title: "Media"
-    url: /media/ 
+  #- title: "Media"
+    #url: /media/ 
             
   - title: "CV"
     #url: /cv/
