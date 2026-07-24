@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Auswahl_Uni_Soziologie(c)Kandlbauer-254.jpg" #02_privat
+  avatar           : "02_privat.jpg" #02_privatAuswahl_Uni_Soziologie(c)Kandlbauer-254.jpg
   name             : "Christina Siegert"
   #pronouns         : ""  
   #bio              : ""
